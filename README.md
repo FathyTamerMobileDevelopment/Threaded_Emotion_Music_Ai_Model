@@ -132,7 +132,7 @@ emotion-music-player/
 │
 ├── models/              # Trained emotion detection models
 │       
-├── fer2013/   # [Kaggle dataset link is in the Acknowledgements section](#acknowledgements)
+├── fer2013/             #Kaggle dataset link is in the Acknowledgements section
 │    ├── training/
 │    └── test/    
 │
