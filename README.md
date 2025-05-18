@@ -6,12 +6,12 @@
 
 ## 📸 Application Demo
 
-| ![Application interface](https://github.com/user-attachments/assets/0bc9a584-ee86-49fc-a47b-4fad67ceaca3) |
+![Application interface](https://github.com/user-attachments/assets/0bc9a584-ee86-49fc-a47b-4fad67ceaca3) 
 
 
 ## 📸 User Threads Selection 
 
-| ![Select Number Of Thread](https://github.com/user-attachments/assets/8606a393-fe7d-45ad-ab14-276205ae646e) |
+![Select Number Of Thread](https://github.com/user-attachments/assets/8606a393-fe7d-45ad-ab14-276205ae646e) 
 
 ## 🚀 Key Features
 
@@ -24,11 +24,11 @@
 ## Threaded Training Performance
 
 Our system implements state-of-the-art multi-threaded training to enhance performance:
-| ![implements](https://github.com/user-attachments/assets/1f64a5e5-a59a-4b67-9f40-7636be65b80d) |
+![implements](https://github.com/user-attachments/assets/1f64a5e5-a59a-4b67-9f40-7636be65b80d)
 
 ## Threaded Training Result
 
-| ![implements](https://github.com/user-attachments/assets/706718dc-d160-4de7-a784-5c5d613f4a45) |
+![implements](https://github.com/user-attachments/assets/706718dc-d160-4de7-a784-5c5d613f4a45)
 
 ## The Emotion Detection Model
 
