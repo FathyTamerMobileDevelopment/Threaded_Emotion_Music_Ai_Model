@@ -142,7 +142,7 @@ emotion-music-player/
 │   ├── emotion_detector.py  # Emotion detection module
 │   ├── music_player.py      # Music playback module
 │   ├── ui_manager.py        # User interface module
-│   ├── threaded_emotion_training.py  # Multi-threaded training implementation
+│   ├── threadedemotiontraining.py  # Multi-threaded training implementation
 │   └── train_fer2013.py     # Traingin without Threading ( AI Course ) not related to this Project
 │
 ├── utils/
