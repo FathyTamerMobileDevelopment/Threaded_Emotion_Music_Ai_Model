@@ -182,7 +182,7 @@ The application maps detected emotions to music categories:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.instagram.com/fathhhhhhy/) file for details.
+This project is licensed under the Fathy Tamer License - see the [LICENSE](https://www.instagram.com/fathhhhhhy/) file for details.
 
 ## Acknowledgements
 
