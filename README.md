@@ -6,23 +6,12 @@
 
 ## 📸 Application Demo
 
-<div align="center">
-  <kbd>
-    <img src="![WhatsApp Image 2025-05-18 at 20 06 53_39ad6c13](https://github.com/user-attachments/assets/98dc25c1-794b-46ce-93e0-0167edee2171)
-" alt="Application Demo" width="600"/>
-  </kbd>
-  <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
-</div>
+![Application interface](https://github.com/user-attachments/assets/0bc9a584-ee86-49fc-a47b-4fad67ceaca3) 
+
 
 ## 📸 User Threads Selection 
 
-<div align="center">
-  <kbd>
-    <img src="![WhatsApp Image 2025-05-18 at 20 03 35_2f07d1b1](https://github.com/user-attachments/assets/aca38eef-b483-425b-9aaf-452684b334f3)
-" alt="Application Demo" width="600"/>
-  </kbd>
-  <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
-</div>
+![Select Number Of Thread](https://github.com/user-attachments/assets/8606a393-fe7d-45ad-ab14-276205ae646e) 
 
 ## 🚀 Key Features
 
@@ -32,27 +21,14 @@
 - **High Confidence Tracking**: Visual emotion confidence meter
 - 🎚**Customizable Interface**: Volume control and easy-to-use controls
 
-## Technical Architecture
-
-<div align="center">
-  <kbd>
-    <img src="![WhatsApp Image 2025-05-18 at 20 04 04_c248f8fe](https://github.com/user-attachments/assets/1acf6bb5-baa3-4cb2-bcf5-00415bd662d3)
-" alt="System Architecture" width="700"/>
-  </kbd>
-  <p><i>The system architecture showing the integration of emotion detection, music playback, and UI components</i></p>
-</div>
-
 ## Threaded Training Performance
 
 Our system implements state-of-the-art multi-threaded training to enhance performance:
+![implements](https://github.com/user-attachments/assets/1f64a5e5-a59a-4b67-9f40-7636be65b80d)
 
-<div align="center">
-  <kbd>
-    <img src="![WhatsApp Image 2025-05-18 at 20 04 39_8a8b1c59](https://github.com/user-attachments/assets/fdd87d02-2865-474c-af75-72df7beeae01)
-" width="650"/>
-  </kbd>
-  <p><i>Training time comparison with different thread counts, showing significantly improved performance with multi-threading</i></p>
-</div>
+## Threaded Training Result
+
+![implements](https://github.com/user-attachments/assets/706718dc-d160-4de7-a784-5c5d613f4a45)
 
 ## The Emotion Detection Model
 
@@ -79,14 +55,6 @@ model = Sequential([
 ])
 ```
 
-## Multi-threaded Training
-
-<div align="center">
-  <kbd>
-    <img src="docs/images/thread_selection.png" alt="Thread Selection Interface" width="500"/>
-  </kbd>
-  <p><i>User interface for selecting the number of threads for model training</i></p>
-</div>
 
 Our application introduces an innovative approach to emotion model training:
 
@@ -111,8 +79,8 @@ Our application introduces an innovative approach to emotion model training:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/emotion-music-player.git
-cd emotion-music-player
+git clone https://github.com/FathyTamerMobileDevelopment/Threaded_Emotion_Music_Ai_Model.git
+cd Threaded_Emotion_Music_Ai_Model
 ```
 
 2. Install dependencies:
@@ -163,19 +131,23 @@ emotion-music-player/
 │   └── music/           # Music organized by emotion (happy, sad, etc.)
 │
 ├── models/              # Trained emotion detection models
+│       
+├── fer2013/             #Kaggle dataset link is in the Acknowledgements section
+│    ├── training/
+│    └── test/    
+│
+├── emotion_music_env/       # python -m venv emotion_music_env
 │
 ├── src/
 │   ├── emotion_detector.py  # Emotion detection module
 │   ├── music_player.py      # Music playback module
-│   └── ui_manager.py        # User interface module
+│   ├── ui_manager.py        # User interface module
+│   ├── threaded_emotion_training.py  # Multi-threaded training implementation
+│   └── train_fer2013.py     # Traingin without Threading ( AI Course ) not related to this Project
 │
 ├── utils/
 │   └── helpers.py           # Utility functions
 │
-├── docs/
-│   └── images/              # Documentation images
-│
-├── threaded_emotion_training.py  # Multi-threaded training implementation
 ├── main.py                  # Main application entry point
 └── README.md                # Project documentation
 ```
@@ -201,16 +173,16 @@ The application maps detected emotions to music categories:
 ## Performance Analysis
 
 - **Detection Speed**: ~30 FPS on mid-range hardware
-- **Emotion Accuracy**: ~70% in real-world conditions
+- **Emotion Accuracy**: ~58% in real-world conditions "معلش بقي"
 - **Training Performance**: Scales almost linearly with thread count
 
 ## Contributors
 
-- [FathyTamerMobileDevelopment]([https://github.com/yourusername](https://github.com/FathyTamerMobileDevelopment)) - Main Developer
+- [FathyTamerMobileDevelopment](https://github.com/FathyTamerMobileDevelopment) - Main Developer
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Fathy Tamer License - see the [LICENSE](https://www.instagram.com/fathhhhhhy/) file for details.
 
 ## Acknowledgements
 
@@ -220,8 +192,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the Egyptian music community for inspiration
 
 ---
+## Contact with me 
+
+- [LinkedIn](https://www.linkedin.com/in/fathytamerfathy223/)
+- [Behance](https://www.behance.net/fathhhhy)
+- [Portoifolio](https://portoflio-fathy-tamer.vercel.app/)
+
 
 <div align="center">
   <p>Made with ❤️ in Egypt</p>
-  <p>For academic purposes - Cairo University Computer Engineering</p>
+  <p>For academic purposes - Modern Academy For Engineering and Technology </p>
 </div>

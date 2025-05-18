@@ -1,0 +1,7 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+tensorflow>=2.4.0
+keras>=2.4.0
+pygame>=2.0.0
+customtkinter>=5.0.0
+pillow>=8.0.0
