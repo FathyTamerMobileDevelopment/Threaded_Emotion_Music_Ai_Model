@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import EarlyStopping
 from sklearn.metrics import classification_report
 
-TRAIN_DIR = "fer2013/training"
+TRAIN_DIR = "fer2013/train"
 TEST_DIR = "fer2013/test"
 MODEL_PATH = "models/emotion_model.h5"
 
