@@ -132,10 +132,11 @@ emotion-music-player/
 │
 ├── models/              # Trained emotion detection models
 │       
-├── fer2013/
+├── fer2013/   # فك الضغط
 │    ├── training/
 │    └── test/    
-│  
+│
+├── emotion_music_env/   # my env فك الضغط
 │
 ├── src/
 │   ├── emotion_detector.py  # Emotion detection module
