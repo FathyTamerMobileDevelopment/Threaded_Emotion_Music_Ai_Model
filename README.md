@@ -6,23 +6,12 @@
 
 ## 📸 Application Demo
 
-<div align="center">
-  <kbd>
-    <img src="![image](https://github.com/user-attachments/assets/0bc9a584-ee86-49fc-a47b-4fad67ceaca3)
-" alt="Application Demo" width="600"/>
-  </kbd>
-  <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
-</div>
+| ![Application interface](https://github.com/user-attachments/assets/0bc9a584-ee86-49fc-a47b-4fad67ceaca3) |
+
 
 ## 📸 User Threads Selection 
 
-<div align="center">
-  <kbd>
-    <img src="![image](https://github.com/user-attachments/assets/8606a393-fe7d-45ad-ab14-276205ae646e)
-" alt="Application Demo" width="600"/>
-  </kbd>
-  <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
-</div>
+| ![Select Number Of Thread](https://github.com/user-attachments/assets/8606a393-fe7d-45ad-ab14-276205ae646e) |
 
 ## 🚀 Key Features
 
@@ -35,25 +24,11 @@
 ## Threaded Training Performance
 
 Our system implements state-of-the-art multi-threaded training to enhance performance:
-
-<div align="center">
-  <kbd>
-    <img src="![image](https://github.com/user-attachments/assets/1f64a5e5-a59a-4b67-9f40-7636be65b80d)
-" width="650"/>
-  </kbd>
-  <p><i>Training time comparison with different thread counts, showing significantly improved performance with multi-threading</i></p>
-</div>
+| ![implements](https://github.com/user-attachments/assets/1f64a5e5-a59a-4b67-9f40-7636be65b80d) |
 
 ## Threaded Training Result
 
-<div align="center">
-  <kbd>
-    <img src="![image](https://github.com/user-attachments/assets/706718dc-d160-4de7-a784-5c5d613f4a45)
-" width="650"/>
-  </kbd>
-  <p><i>Showing the result after threaded the training model " IF U WANT TO TRY IT YOU SHOULD EXTRACT THE FILE IN FER2013" </i></p>
-</div>
-
+| ![implements](https://github.com/user-attachments/assets/706718dc-d160-4de7-a784-5c5d613f4a45) |
 
 ## The Emotion Detection Model
 
@@ -80,14 +55,6 @@ model = Sequential([
 ])
 ```
 
-## Multi-threaded Training
-
-<div align="center">
-  <kbd>
-    <img src="docs/images/thread_selection.png" alt="Thread Selection Interface" width="500"/>
-  </kbd>
-  <p><i>User interface for selecting the number of threads for model training</i></p>
-</div>
 
 Our application introduces an innovative approach to emotion model training:
 
@@ -200,16 +167,16 @@ The application maps detected emotions to music categories:
 ## Performance Analysis
 
 - **Detection Speed**: ~30 FPS on mid-range hardware
-- **Emotion Accuracy**: ~70% in real-world conditions
+- **Emotion Accuracy**: ~58% in real-world conditions "معلش بقي"
 - **Training Performance**: Scales almost linearly with thread count
 
 ## Contributors
 
-- [FathyTamerMobileDevelopment]([https://github.com/yourusername](https://github.com/FathyTamerMobileDevelopment)) - Main Developer
+- [FathyTamerMobileDevelopment](https://github.com/FathyTamerMobileDevelopment) - Main Developer
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.instagram.com/fathhhhhhy/) file for details.
 
 ## Acknowledgements
 
