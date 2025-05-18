@@ -131,6 +131,11 @@ emotion-music-player/
 │   └── music/           # Music organized by emotion (happy, sad, etc.)
 │
 ├── models/              # Trained emotion detection models
+│       
+├── fer2013/
+│    ├── training/
+│    └── test/    
+│  
 │
 ├── src/
 │   ├── emotion_detector.py  # Emotion detection module
