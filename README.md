@@ -133,7 +133,7 @@ emotion-music-player/
 ├── models/              # Trained emotion detection models
 │       
 ├── fer2013/             #Kaggle dataset link is in the Acknowledgements section
-│    ├── training/
+│    ├── train/
 │    └── test/    
 │
 ├── emotion_music_env/       # python -m venv emotion_music_env
