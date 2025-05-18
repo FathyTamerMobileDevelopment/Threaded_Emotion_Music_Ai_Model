@@ -8,7 +8,18 @@
 
 <div align="center">
   <kbd>
-    <img src="docs/images/app_demo.png" alt="Application Demo" width="600"/>
+    <img src="![WhatsApp Image 2025-05-18 at 20 06 53_39ad6c13](https://github.com/user-attachments/assets/98dc25c1-794b-46ce-93e0-0167edee2171)
+" alt="Application Demo" width="600"/>
+  </kbd>
+  <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
+</div>
+
+## 📸 User Threads Selection 
+
+<div align="center">
+  <kbd>
+    <img src="![WhatsApp Image 2025-05-18 at 20 03 35_2f07d1b1](https://github.com/user-attachments/assets/aca38eef-b483-425b-9aaf-452684b334f3)
+" alt="Application Demo" width="600"/>
   </kbd>
   <p><i>The main interface of the Emotion-Based Egyptian Music Player, showing real-time emotion detection and music selection</i></p>
 </div>
@@ -25,7 +36,8 @@
 
 <div align="center">
   <kbd>
-    <img src="docs/images/architecture.png" alt="System Architecture" width="700"/>
+    <img src="![WhatsApp Image 2025-05-18 at 20 04 04_c248f8fe](https://github.com/user-attachments/assets/1acf6bb5-baa3-4cb2-bcf5-00415bd662d3)
+" alt="System Architecture" width="700"/>
   </kbd>
   <p><i>The system architecture showing the integration of emotion detection, music playback, and UI components</i></p>
 </div>
@@ -36,7 +48,8 @@ Our system implements state-of-the-art multi-threaded training to enhance perfor
 
 <div align="center">
   <kbd>
-    <img src="docs/images/training_performance.png" alt="Threaded Training Performance" width="650"/>
+    <img src="![WhatsApp Image 2025-05-18 at 20 04 39_8a8b1c59](https://github.com/user-attachments/assets/fdd87d02-2865-474c-af75-72df7beeae01)
+" width="650"/>
   </kbd>
   <p><i>Training time comparison with different thread counts, showing significantly improved performance with multi-threading</i></p>
 </div>
