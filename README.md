@@ -132,11 +132,11 @@ emotion-music-player/
 │
 ├── models/              # Trained emotion detection models
 │       
-├── fer2013/   # فك الضغط
+├── fer2013/   # [Kaggle dataset link is in the Acknowledgements section](#acknowledgements)
 │    ├── training/
 │    └── test/    
 │
-├── emotion_music_env/   # my env فك الضغط
+├── emotion_music_env/       # python -m venv emotion_music_env
 │
 ├── src/
 │   ├── emotion_detector.py  # Emotion detection module
@@ -192,6 +192,12 @@ This project is licensed under the Fathy Tamer License - see the [LICENSE](https
 - Special thanks to the Egyptian music community for inspiration
 
 ---
+## Contact with me 
+
+- [LinkedIn](https://www.linkedin.com/in/fathytamerfathy223/)
+- [Behance](https://www.behance.net/fathhhhy)
+- [Portoifolio](https://portoflio-fathy-tamer.vercel.app/)
+
 
 <div align="center">
   <p>Made with ❤️ in Egypt</p>
