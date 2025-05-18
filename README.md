@@ -1,8 +1,6 @@
 # Emotion-Based Egyptian Music Player
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/emotion-music-player?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/FathyTamerMobileDevelopment/emotion-music-player?style=social)
 
 > **Experience music that matches your mood!** This advanced application detects your facial emotions in real-time and automatically plays Egyptian music that complements your emotional state.
 
